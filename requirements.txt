@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+pymupdf
+pypdf
+tqdm
+tqdm.auto
+sentence-transformers
+faiss-cpu
+chromadb
+hf_xet
+langchain-google-genai
+python-dotenv
+google-generativeai
+generativeai
