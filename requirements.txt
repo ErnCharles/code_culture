@@ -4,12 +4,13 @@ langchain-community
 pymupdf
 pypdf
 tqdm
-tqdm.auto
+tqdm
 sentence-transformers
 faiss-cpu
 chromadb
-hf_xet
+hf-xet
 langchain-google-genai
 python-dotenv
 google-generativeai
 generativeai
+numpy
